@@ -13,3 +13,6 @@ D:\Documents\Projects\Microsoft Visual Studio\ReleaseWaveletAlogorithm\ReleaseWa
 D:\Documents\Projects\Microsoft Visual Studio\ReleaseWaveletAlogorithm\ReleaseWaveletAlogorithm\obj\Debug\ReleaseWaveletAlogorithm.SetingField.resources
 D:\Documents\Projects\Microsoft Visual Studio\ReleaseWaveletAlogorithm\ReleaseWaveletAlogorithm\obj\Debug\ReleaseWaveletAlogorithm.Help.resources
 D:\Documents\Projects\Microsoft Visual Studio\ReleaseWaveletAlogorithm\ReleaseWaveletAlogorithm\obj\Debug\ReleaseWaveletAlogorithm.RealeseAlgorithm.resources
+D:\Documents\Projects\Microsoft Visual Studio\RWA\ReleaseWaveletAlogorithm\ReleaseWaveletAlogorithm\bin\Debug\ReleaseWaveletAlogorithm.exe.config
+D:\Documents\Projects\Microsoft Visual Studio\RWA\ReleaseWaveletAlogorithm\ReleaseWaveletAlogorithm\obj\Debug\ReleaseWaveletAlogorithm.exe
+D:\Documents\Projects\Microsoft Visual Studio\RWA\ReleaseWaveletAlogorithm\ReleaseWaveletAlogorithm\obj\Debug\ReleaseWaveletAlogorithm.pdb
