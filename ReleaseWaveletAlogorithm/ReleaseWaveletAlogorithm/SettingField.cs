@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace ReleaseWaveletAlogorithm
 {
-    public partial class SetingField : Form
+    public partial class SettingField : Form
     {
-        public SetingField()
+        public SettingField()
         {
             InitializeComponent();
         }
@@ -27,6 +27,8 @@ namespace ReleaseWaveletAlogorithm
         private void button5_Click(object sender, EventArgs e)
         {
             Close();
+            RealeseAlgorithm newForm = new RealeseAlgorithm();
+            newForm.Show();
         }
 
         private void button6_Click(object sender, EventArgs e)

@@ -30,7 +30,7 @@ namespace ReleaseWaveletAlogorithm
         private void button1_Click(object sender, EventArgs e)
         {
             Close();
-            SetingField newForm = new SetingField();
+            SettingField newForm = new SettingField();
             newForm.Show();
         }
 
@@ -45,6 +45,11 @@ namespace ReleaseWaveletAlogorithm
         {
             Help newForm = new Help();
             newForm.Show();
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

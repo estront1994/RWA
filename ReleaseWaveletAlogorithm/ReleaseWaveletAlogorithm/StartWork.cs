@@ -34,5 +34,18 @@ namespace ReleaseWaveletAlogorithm
             Help newForm = new Help();
             newForm.Show();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            InitializeComponent();
+            OpenFileDialog OPF = new OpenFileDialog();
+            if (OPF.ShowDialog() == DialogResult.OK)
+            {
+                MessageBox.Show("Выбран файл: " + OPF.FileName);
+            }
+            Close();
+            RealeseAlgorithm newForm = new RealeseAlgorithm();
+            newForm.Show();
+        }
     }
 }

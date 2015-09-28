@@ -1,6 +1,6 @@
 ﻿namespace ReleaseWaveletAlogorithm
 {
-    partial class SetingField
+    partial class SettingField
     {
         /// <summary>
         /// Required designer variable.

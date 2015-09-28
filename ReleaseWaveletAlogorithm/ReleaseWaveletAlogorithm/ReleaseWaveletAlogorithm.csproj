@@ -70,11 +70,11 @@
     <Compile Include="RealeseAlgorithm.Designer.cs">
       <DependentUpon>RealeseAlgorithm.cs</DependentUpon>
     </Compile>
-    <Compile Include="SetingField.cs">
+    <Compile Include="SettingField.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="SetingField.Designer.cs">
-      <DependentUpon>SetingField.cs</DependentUpon>
+    <Compile Include="SettingField.Designer.cs">
+      <DependentUpon>SettingField.cs</DependentUpon>
     </Compile>
     <Compile Include="StartWork.cs">
       <SubType>Form</SubType>
@@ -102,8 +102,8 @@
     <EmbeddedResource Include="RealeseAlgorithm.resx">
       <DependentUpon>RealeseAlgorithm.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="SetingField.resx">
-      <DependentUpon>SetingField.cs</DependentUpon>
+    <EmbeddedResource Include="SettingField.resx">
+      <DependentUpon>SettingField.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="StartWork.resx">
       <DependentUpon>StartWork.cs</DependentUpon>

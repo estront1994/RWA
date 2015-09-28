@@ -16,3 +16,15 @@ D:\Documents\Projects\Microsoft Visual Studio\ReleaseWaveletAlogorithm\ReleaseWa
 D:\Documents\Projects\Microsoft Visual Studio\RWA\ReleaseWaveletAlogorithm\ReleaseWaveletAlogorithm\bin\Debug\ReleaseWaveletAlogorithm.exe.config
 D:\Documents\Projects\Microsoft Visual Studio\RWA\ReleaseWaveletAlogorithm\ReleaseWaveletAlogorithm\obj\Debug\ReleaseWaveletAlogorithm.exe
 D:\Documents\Projects\Microsoft Visual Studio\RWA\ReleaseWaveletAlogorithm\ReleaseWaveletAlogorithm\obj\Debug\ReleaseWaveletAlogorithm.pdb
+D:\Documents\Projects\Microsoft Visual Studio\RWA\ReleaseWaveletAlogorithm\ReleaseWaveletAlogorithm\bin\Debug\ReleaseWaveletAlogorithm.exe
+D:\Documents\Projects\Microsoft Visual Studio\RWA\ReleaseWaveletAlogorithm\ReleaseWaveletAlogorithm\bin\Debug\ReleaseWaveletAlogorithm.pdb
+D:\Documents\Projects\Microsoft Visual Studio\RWA\ReleaseWaveletAlogorithm\ReleaseWaveletAlogorithm\obj\Debug\ReleaseWaveletAlogorithm.csprojResolveAssemblyReference.cache
+D:\Documents\Projects\Microsoft Visual Studio\RWA\ReleaseWaveletAlogorithm\ReleaseWaveletAlogorithm\obj\Debug\ReleaseWaveletAlogorithm.About.resources
+D:\Documents\Projects\Microsoft Visual Studio\RWA\ReleaseWaveletAlogorithm\ReleaseWaveletAlogorithm\obj\Debug\ReleaseWaveletAlogorithm.CreateField.resources
+D:\Documents\Projects\Microsoft Visual Studio\RWA\ReleaseWaveletAlogorithm\ReleaseWaveletAlogorithm\obj\Debug\ReleaseWaveletAlogorithm.Help.resources
+D:\Documents\Projects\Microsoft Visual Studio\RWA\ReleaseWaveletAlogorithm\ReleaseWaveletAlogorithm\obj\Debug\ReleaseWaveletAlogorithm.RealeseAlgorithm.resources
+D:\Documents\Projects\Microsoft Visual Studio\RWA\ReleaseWaveletAlogorithm\ReleaseWaveletAlogorithm\obj\Debug\ReleaseWaveletAlogorithm.SettingField.resources
+D:\Documents\Projects\Microsoft Visual Studio\RWA\ReleaseWaveletAlogorithm\ReleaseWaveletAlogorithm\obj\Debug\ReleaseWaveletAlogorithm.StartWork.resources
+D:\Documents\Projects\Microsoft Visual Studio\RWA\ReleaseWaveletAlogorithm\ReleaseWaveletAlogorithm\obj\Debug\ReleaseWaveletAlogorithm.Start_menu.resources
+D:\Documents\Projects\Microsoft Visual Studio\RWA\ReleaseWaveletAlogorithm\ReleaseWaveletAlogorithm\obj\Debug\ReleaseWaveletAlogorithm.Properties.Resources.resources
+D:\Documents\Projects\Microsoft Visual Studio\RWA\ReleaseWaveletAlogorithm\ReleaseWaveletAlogorithm\obj\Debug\ReleaseWaveletAlogorithm.csproj.GenerateResource.Cache

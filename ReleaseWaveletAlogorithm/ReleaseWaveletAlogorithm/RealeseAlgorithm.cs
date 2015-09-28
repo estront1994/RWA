@@ -16,5 +16,28 @@ namespace ReleaseWaveletAlogorithm
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Close();
+            SettingField newForm = new SettingField();
+            newForm.Show();
+        }
+
+        private void button12_Click(object sender, EventArgs e)
+        {
+            Help newForm = new Help();
+            newForm.Show();
+        }
     }
 }
